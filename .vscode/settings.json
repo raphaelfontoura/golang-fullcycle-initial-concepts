@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "go-db-products",
+      "database": "${workspaceFolder:hello-world}/introducao/db.sqlite"
+    }
+  ]
+}
